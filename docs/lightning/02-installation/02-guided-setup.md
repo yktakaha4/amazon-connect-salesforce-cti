@@ -381,7 +381,7 @@ It is a common practice to create an API user account for this purpose.
 
 <img src={useBaseUrl('/img/lightning/lambda-install-0.png')} />
 
-27. Select **Manage Assignments**. Add the apiuser you just created to the permission set.
+27. Select **Add Assignments**. Add the apiuser you just created to the permission set.
 
 28. A confirmation email with an **activation link** will be sent to the
     email address provided. Choose the link to activate your user and
